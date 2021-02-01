@@ -14,13 +14,13 @@ body {
     margin-top: 0;
   }
 
-.top-half {
+.top-cont {
   background-color: #EAF6F6;
   width: 100%;
 
 }
 
-.second-half {
+.bottom-cont {
   background-color: #adeecf;
   width: 100%;
 
