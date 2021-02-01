@@ -1,0 +1,62 @@
+html{
+    height: 100%;
+    margin: 0;
+}
+body {
+      height: 100%;
+      margin: 0;
+  }
+
+p {
+    margin: 0;
+    margin-right: 5%;
+    margin-left: 30%;
+  }
+
+div {
+  height: 100%;
+}
+.top-half {
+  position: relative;
+  padding-left: 50px;
+  background-image: url('images/zerotwo.png');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: cover;
+  height: 100%
+}
+
+.second-half {
+  background-color: #a3ddcb;
+  background-image: url('images/asd.png');
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-size: contain;
+  height: 100%;
+  text-align: right;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #045762;
+  border-width: 7px;
+  width: 6%
+}
+
+h1 {
+  color: #045762;
+  margin-top: 0;
+  padding-top: 50px;
+  padding-right: 50px;
+
+}
+
+h3 {
+  color: #045762;
+}
+
+td {
+  text-align: center;
+}
